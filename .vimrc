@@ -1,0 +1,1 @@
+/Users/scott/.vim/vimrc
